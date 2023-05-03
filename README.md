@@ -11,13 +11,14 @@
 ---
 
 ### :movie_camera: Video tutorial:
-- [V2-Tech Instagram reel]()
+- [V2-Tech Instagram reel](https://www.instagram.com/reel/Crx0v1IAwo-/)
 ### :receipt: Parts List:
 - [PCB](https://cart.jlcpcb.com/) !!!:warning: select 1mm PCB thickness :warning:!!!
 - [Regular RG402 coax](https://www.aliexpress.com/item/4000796762250.html)
 - [SMA-Male Connector](https://www.aliexpress.com/item/1005001705683716.html)
 OR
 - [Pre-soldered RG402 coax with SMA connectors](https://www.aliexpress.com/item/1005001890974789.html) (just cut it in half)
+- [Shield]()
 
 ### :link: References:
 1. [Maarten Baert's website](https://www.maartenbaert.be/quadcopters/antennas/pagoda-antenna/)
