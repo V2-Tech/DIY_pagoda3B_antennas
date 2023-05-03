@@ -10,7 +10,10 @@
 
 ---
 
+### :movie_camera: Video tutorial:
+- [V2-Tech Instagram reel]()
 ### :receipt: Parts List:
+- [PCB](https://cart.jlcpcb.com/) !!!:warning: select 1mm PCB thickness :warning:!!!
 - [Regular RG402 coax](https://www.aliexpress.com/item/4000796762250.html)
 - [SMA-Male Connector](https://www.aliexpress.com/item/1005001705683716.html)
 OR
