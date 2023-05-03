@@ -17,4 +17,4 @@ OR
 - [Pre-soldered RG402 coax with SMA connectors](https://www.aliexpress.com/item/1005001890974789.html) (just cut it in half)
 
 ### :link: References:
-1. [Maarten Baert's website] (https://www.maartenbaert.be/quadcopters/antennas/pagoda-antenna/)
+1. Maarten Baert's website (https://www.maartenbaert.be/quadcopters/antennas/pagoda-antenna/)
